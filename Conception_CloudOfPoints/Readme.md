@@ -50,28 +50,51 @@ basé sur la norme xml (qui représente un arbre). Le fichier `write_svg.hpp` pr
 Le fichier exemple `exemple_svg.cpp` vous permet de voir la façon de créer un tel fichier.
 Le fichier `write_svg.hpp` propose les fonctionnalités suivantes :
 - Ouverture d'un fichier au format svg en écriture (la fonction écrit l'entête attendue pour un tel fichier) :
+
     FILE* open_svg(const char* fileName)
+
 - Rajoute un commentaire dans le fichier  SVG (non représenté à l'écran):
+
     void write_description_svg(FILE* fich, const std::string& desc)
+
 - Rajoute un point dans le fichier SVG (sous forme de petit rectangle) avec une couleur donnée (par défaut, noire) :
+
     void write_point_svg(FILE* fich, const point& p, const std::string&  col = "black" )
+
 - Rajoute une ligne allant du point p1 au point p2 avec une couleur donnée (rouge par défaut) :
+
     void write_line_svg(FILE* fich, const point& p1, const point& p2, const std::string& color = "red")
+
 - Rajoute un cercle creux de centre p et de rayon r avec une couleur donnée pour la bordure (bleue par défaut) et une épaisseur (de 1 par défaut)
+
     void write_circle_svg(FILE* fich, const point& p, double r, int thick = 1, const std::string& color = "blue")
+
 - Rajoute un cercle plein de centre p et de rayon r avec une certaine opacité (1 = opaque, 0 = complètement transparent, 0.5 : 50% transparent, etc.)
+
     void write_circle_svg(FILE* fich, const point& p, double r, const std::string& fill_color, double fill_opactity = 1.)
+
 - Rajoute un rectangle creux ayant pour coins opposés p_min et p_max (coords min et max) avec une certaine épaisseur et couleur pour le bord
+
     void write_rectangle_svg(FILE* fich, const point& p_min, const point& p_max, int thick = 1, const std::string& color = "red" )
+
 - Rajoute un rectangle plein ayant pour coins opposés p_min et p_max (coords min et max) avec une couleur et opacité donnée :
+
     void write_rectangle_svg(FILE* fich, const point& p_min, const point& p_max, const std::string& fill_color, double fill_opacity = 1.)
+
 - Rajoute un texte sur l'image avec un éventuel remplissage et une certaine opacité (Note : je n'ai pas trouvé comment donner une taille au texte...) :
+
     void write_text_svg(FILE* fich, const point& origin, const std::string& texte, const std::string& fill_color = "black", double fill_opacity = 1. )
+
 - Affiche un triangle creux avec une couleur et une épaisseur données pour le bord
+
     void write_triangle_svg(FILE* fich, const point& p1, const point& p2, const point& p3, int thick = 1, const std::string& color = "red")
+
 - Affiche un triangle plein avec une opacitée et une couleur données pour le remplissage
+
     void write_triangle_svg(FILE* fich, const point& p1, const point& p2, const point& p3, const std::string& fill_color, double fill_opacity = 1.)
+
 - Referme un fichier svg en complétant le fichier avec les balises de fin demandées par le format svg.
+
     void close_svg(FILE* fich)
 
 Pour les couleurs possibles en SVG, vous pouvez vous référer au [lien html suivant](https://www.december.com/html/spec/colorsvgsvg.html)
