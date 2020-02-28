@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+ "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="10cm" height="10cm" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<desc>Un point
+</desc>
+<rect x="4.95cm" y="4.95cm" width="0.1cm" height="0.1cm" fill="darkblue"/>
+<desc>Une droite
+</desc>
+<line x1="0cm" y1="10cm" x2="10cm" y2="0cm" stroke="red"/>
+<line x1="0cm" y1="10cm" x2="0cm" y2="0cm" stroke="blue"/>
+<line x1="10cm" y1="10cm" x2="0cm" y2="10cm" stroke="yellow"/>
+<circle cx="5cm" cy="5cm" r="10cm" stroke="purple" stroke-width="2" fill="none" /><line x1="0cm" y1="10cm" x2="0.5cm" y2="0cm" stroke="blue"/>
+<line x1="10cm" y1="10cm" x2="0.5cm" y2="9.5cm" stroke="yellow"/>
+<circle cx="5cm" cy="5cm" r="9.5cm" stroke="purple" stroke-width="2" fill="none" /><line x1="0cm" y1="10cm" x2="1cm" y2="0cm" stroke="blue"/>
+<line x1="10cm" y1="10cm" x2="1cm" y2="9cm" stroke="yellow"/>
+<circle cx="5cm" cy="5cm" r="9cm" stroke="purple" stroke-width="2" fill="none" /><line x1="0cm" y1="10cm" x2="1.5cm" y2="0cm" stroke="blue"/>
+<line x1="10cm" y1="10cm" x2="1.5cm" y2="8.5cm" stroke="yellow"/>
+<circle cx="5cm" cy="5cm" r="8.5cm" stroke="purple" stroke-width="2" fill="none" /><line x1="0cm" y1="10cm" x2="2cm" y2="0cm" stroke="blue"/>
+<line x1="10cm" y1="10cm" x2="2cm" y2="8cm" stroke="yellow"/>
+<circle cx="5cm" cy="5cm" r="8cm" stroke="purple" stroke-width="2" fill="none" /><line x1="0cm" y1="10cm" x2="2.5cm" y2="0cm" stroke="blue"/>
+<line x1="10cm" y1="10cm" x2="2.5cm" y2="7.5cm" stroke="yellow"/>
+<circle cx="5cm" cy="5cm" r="7.5cm" stroke="purple" stroke-width="2" fill="none" /><line x1="0cm" y1="10cm" x2="3cm" y2="0cm" stroke="blue"/>
+<line x1="10cm" y1="10cm" x2="3cm" y2="7cm" stroke="yellow"/>
+<circle cx="5cm" cy="5cm" r="7cm" stroke="purple" stroke-width="2" fill="none" /><line x1="0cm" y1="10cm" x2="3.5cm" y2="0cm" stroke="blue"/>
+<line x1="10cm" y1="10cm" x2="3.5cm" y2="6.5cm" stroke="yellow"/>
+<circle cx="5cm" cy="5cm" r="6.5cm" stroke="purple" stroke-width="2" fill="none" /><line x1="0cm" y1="10cm" x2="4cm" y2="0cm" stroke="blue"/>
+<line x1="10cm" y1="10cm" x2="4cm" y2="6cm" stroke="yellow"/>
+<circle cx="5cm" cy="5cm" r="6cm" stroke="purple" stroke-width="2" fill="none" /><line x1="0cm" y1="10cm" x2="4.5cm" y2="0cm" stroke="blue"/>
+<line x1="10cm" y1="10cm" x2="4.5cm" y2="5.5cm" stroke="yellow"/>
+<circle cx="5cm" cy="5cm" r="5.5cm" stroke="purple" stroke-width="2" fill="none" /><line x1="0cm" y1="10cm" x2="5cm" y2="0cm" stroke="blue"/>
+<line x1="10cm" y1="10cm" x2="5cm" y2="5cm" stroke="yellow"/>
+<circle cx="5cm" cy="5cm" r="5cm" stroke="purple" stroke-width="2" fill="none" /><line x1="0cm" y1="10cm" x2="5.5cm" y2="0cm" stroke="blue"/>
+<line x1="10cm" y1="10cm" x2="5.5cm" y2="4.5cm" stroke="yellow"/>
+<circle cx="5cm" cy="5cm" r="4.5cm" stroke="purple" stroke-width="2" fill="none" /><line x1="0cm" y1="10cm" x2="6cm" y2="0cm" stroke="blue"/>
+<line x1="10cm" y1="10cm" x2="6cm" y2="4cm" stroke="yellow"/>
+<circle cx="5cm" cy="5cm" r="4cm" stroke="purple" stroke-width="2" fill="none" /><line x1="0cm" y1="10cm" x2="6.5cm" y2="0cm" stroke="blue"/>
+<line x1="10cm" y1="10cm" x2="6.5cm" y2="3.5cm" stroke="yellow"/>
+<circle cx="5cm" cy="5cm" r="3.5cm" stroke="purple" stroke-width="2" fill="none" /><line x1="0cm" y1="10cm" x2="7cm" y2="0cm" stroke="blue"/>
+<line x1="10cm" y1="10cm" x2="7cm" y2="3cm" stroke="yellow"/>
+<circle cx="5cm" cy="5cm" r="3cm" stroke="purple" stroke-width="2" fill="none" /><line x1="0cm" y1="10cm" x2="7.5cm" y2="0cm" stroke="blue"/>
+<line x1="10cm" y1="10cm" x2="7.5cm" y2="2.5cm" stroke="yellow"/>
+<circle cx="5cm" cy="5cm" r="2.5cm" stroke="purple" stroke-width="2" fill="none" /><line x1="0cm" y1="10cm" x2="8cm" y2="0cm" stroke="blue"/>
+<line x1="10cm" y1="10cm" x2="8cm" y2="2cm" stroke="yellow"/>
+<circle cx="5cm" cy="5cm" r="2cm" stroke="purple" stroke-width="2" fill="none" /><line x1="0cm" y1="10cm" x2="8.5cm" y2="0cm" stroke="blue"/>
+<line x1="10cm" y1="10cm" x2="8.5cm" y2="1.5cm" stroke="yellow"/>
+<circle cx="5cm" cy="5cm" r="1.5cm" stroke="purple" stroke-width="2" fill="none" /><line x1="0cm" y1="10cm" x2="9cm" y2="0cm" stroke="blue"/>
+<line x1="10cm" y1="10cm" x2="9cm" y2="1cm" stroke="yellow"/>
+<circle cx="5cm" cy="5cm" r="1cm" stroke="purple" stroke-width="2" fill="none" /><line x1="0cm" y1="10cm" x2="9.5cm" y2="0cm" stroke="blue"/>
+<line x1="10cm" y1="10cm" x2="9.5cm" y2="0.5cm" stroke="yellow"/>
+<circle cx="5cm" cy="5cm" r="0.5cm" stroke="purple" stroke-width="2" fill="none" /><circle cx="5cm" cy="5cm" r="2.5cm" stroke-opacity="0" fill="pink" fill-opacity="0.25" /><rect x="2.5cm" y="2.5cm" width="5cm" height="5cm" stroke="brown" stroke-width="1" fill="none" />
+<rect x="3cm" y="3cm" width="4cm" height="4cm" stroke_opacity="0" fill="cyan" fill-opacity="0.15" />
+<g transform="scale(37.795)">
+	<polygon points="2,9 8,9 5,1" fill="green" fill-opacity="0.33" />
+</g>
+<polygon points="75.59,340.155 302.36,340.155 188.975,37.795" stroke="forestgreen" stroke-width="2" fill="none" />
+<text x="1cm" y="1cm" fill="royalblue" fill-opacity="0.75">Essai de texte</text>
+<!-- Show outline of canvas using 'rect' element -->
+<rect x=".01cm" y=".01cm" width="9.98cm" height="9.98cm"
+ fill="none" stroke="blue" stroke-width=".02cm" />
+</svg>
