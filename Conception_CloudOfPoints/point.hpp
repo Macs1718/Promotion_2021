@@ -105,7 +105,7 @@ struct point
  *
  * @return     Le flux de sortie modifié après l'écriture du point
  */
-std::ostream& operator << ( std::ostream& out, const point& p )
+inline std::ostream& operator << ( std::ostream& out, const point& p )
 {
     out << p._x << " " << p._y;
     return out;
