@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+ "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="10cm" height="10cm" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<rect x="9.45cm" y="8.75cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="7.95cm" y="3.55cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="9.75cm" y="9.55cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="6.65cm" y="8.25cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="5.05cm" y="6.95cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="1.65cm" y="1.15cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="5.05cm" y="3.15cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="7.85cm" y="8.95cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="3.85cm" y="9.55cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="1.85cm" y="2.25cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="4.35cm" y="5.85cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="7.75cm" y="5.85cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="3.85cm" y="9.55cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="3.85cm" y="3.35cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="7.45cm" y="5.35cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="7.15cm" y="3.65cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="4.15cm" y="2.05cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="4.25cm" y="9.25cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="5.15cm" y="9.15cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="0.85cm" y="6.85cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="8.15cm" y="5.85cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="9.75cm" y="3.65cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="1.25cm" y="0.95cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="9.45cm" y="7.95cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="0.35cm" y="7.65cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="7.05cm" y="0.65cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="3.85cm" y="1.45cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="7.45cm" y="0.35cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="0.15cm" y="7.65cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="8.95cm" y="6.75cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="0.65cm" y="6.25cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="3.25cm" y="0.75cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="3.55cm" y="4.05cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="6.65cm" y="9.25cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="2.25cm" y="3.75cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="6.25cm" y="5.75cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="2.55cm" y="6.45cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="4.05cm" y="9.45cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="2.45cm" y="3.55cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="3.75cm" y="5.85cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="0.05cm" y="5.35cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="3.55cm" y="5.05cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="2.35cm" y="6.05cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="0.05cm" y="9.15cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="8.55cm" y="7.85cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="1.85cm" y="4.05cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="2.55cm" y="4.35cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="1.95cm" y="5.95cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="6.85cm" y="6.25cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="5.85cm" y="8.15cm" width="0.1cm" height="0.1cm" fill="brown"/>
+<rect x="0.1cm" y="0.4cm" width="9.7cm" height="9.2cm" stroke="red" stroke-width="1" fill="none" />
+<rect x="4.666cm" y="5.664cm" width="0.1cm" height="0.1cm" fill="cyan"/>
+<polygon points="370.391,362.832 147.4,362.832 178.241,215.961" stroke="blue" stroke-width="1" fill="none" />
+<polygon points="147.4,362.832 3.7795,347.714 178.241,215.961" stroke="blue" stroke-width="1" fill="none" />
+<polygon points="3.7795,347.714 3.7795,204.093 178.241,215.961" stroke="blue" stroke-width="1" fill="none" />
+<polygon points="3.7795,204.093 49.1335,37.795 178.241,215.961" stroke="blue" stroke-width="1" fill="none" />
+<polygon points="49.1335,37.795 124.724,30.236 178.241,215.961" stroke="blue" stroke-width="1" fill="none" />
+<polygon points="124.724,30.236 283.463,15.118 178.241,215.961" stroke="blue" stroke-width="1" fill="none" />
+<polygon points="283.463,15.118 370.391,139.842 178.241,215.961" stroke="blue" stroke-width="1" fill="none" />
+<polygon points="370.391,139.842 370.391,362.832 178.241,215.961" stroke="blue" stroke-width="1" fill="none" />
+<polygon points="370.391,362.832 370.391,362.832 178.241,215.961" stroke="blue" stroke-width="1" fill="none" />
+<!-- Show outline of canvas using 'rect' element -->
+<rect x=".01cm" y=".01cm" width="9.98cm" height="9.98cm"
+ fill="none" stroke="blue" stroke-width=".02cm" />
+</svg>
